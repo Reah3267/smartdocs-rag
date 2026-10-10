@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# API keys and secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Local data and vector databases
+chroma_db/
+*.sqlite3
+
+# Temporary and system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor settings
+.vscode/
