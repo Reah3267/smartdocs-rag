@@ -1,5 +1,8 @@
 # SmartDocs RAG — Multi-PDF Question Answering
 
+Try the application here: [SmartDocs RAG](https://smartdocs-rag-dvunknsrbl4nzaqyhjhhif.streamlit.app/)
+
+
 A Retrieval-Augmented Generation (RAG) application that lets users upload multiple PDF documents, ask natural-language questions, and receive answers grounded in retrieved document passages.
 
 Built with Python, Streamlit, LangChain, Chroma, Hugging Face embeddings, and Google Gemini.
